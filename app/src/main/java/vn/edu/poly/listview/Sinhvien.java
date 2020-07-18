@@ -11,6 +11,7 @@ public class Sinhvien {
         this.ten = ten;
         this.lop = lop;
     }
+
     public Sinhvien() {
     }
 
